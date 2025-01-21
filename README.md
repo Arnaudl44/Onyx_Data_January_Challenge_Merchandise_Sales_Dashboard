@@ -87,8 +87,8 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 
 ### Performance des produits
 ![Performance des produits](images/Capture%20d’écran%202025-01-21%20-%20Products%20Performance.png)
-### Performance des produits
-![Performance des produits](images/Capture%20d’écran%202025-01-21%20-%20Products%20Performance.png)
+### Détails des produits
+![Détails des produits](images/Capture%20d’écran%202025-01-21%20-%20Products%20Details.png)
 
 ---
 
