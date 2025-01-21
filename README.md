@@ -140,6 +140,7 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - **Tableau de bord Power BI** : DataDNA_ZoomCharts_Mini_Challenge_January25_ALM.pbix
 - **README.md** : Ce fichier.
 - **Captures d’écran** : Disponibles dans le dossier images/.
+- **Données** : Disponibles dans le dossier data/
 - **[Lien Google Drive](https://drive.google.com/file/d/1QrTMKhaJBJi-F8Rph-ZtWqnUwUZCBn7a/view?usp=sharing)** pour accéder au fichier
 
 ---
