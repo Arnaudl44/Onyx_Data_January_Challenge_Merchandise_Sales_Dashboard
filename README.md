@@ -81,7 +81,7 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - Les produits dont le prix se situe entre **50 et 100 $** génèrent le **plus grand total de ventes**, soulignant une forte préférence des clients pour cette gamme de prix.
 - Les produits bénéficiant de remises affichent une **note moyenne de 4,47 étoiles**, contre **3,44 étoiles** pour les produits sans remises, suggérant un impact positif des promotions sur la satisfaction client.
 
-![Performance des produits](images/Capture%20d’écran%202025-01-21%20-%20Products%20Performance.png)
+![Performance des produits](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-%20Products%20Performance.png)
 
 ---
 
