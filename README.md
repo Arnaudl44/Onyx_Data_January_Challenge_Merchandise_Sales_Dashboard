@@ -57,12 +57,12 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - Les ventes totales atteignent **856 000 $**, générées par **7 394 commandes** et **12 334 produits vendus**.
 - La **valeur moyenne des commandes (AOV)** est de **116 $**, avec une moyenne de **1,68 produit par commande**.
 - Les ventes augmentent régulièrement au fil du temps, sans montrer de pics significatifs, indiquant une base de clients fidèle et un intérêt constant pour les produits.
-
+### Vue d’ensemble
 ![Vue d’ensemble](images/Capture%20d’écran%202025-01-21%20-%20Overview.png)
 
 ---
 
-### Analyse géographique
+### Performance des ventes
 - Les **États-Unis** représentent **84 % des ventes totales**, soit **470 000 $**. Cela s’explique par :
   - **Les frais de livraison internationaux**, qui freinent les commandes depuis d’autres régions.
   - **La popularité de Lee Chatmen aux États-Unis**, où il est basé et bénéficie d’une forte notoriété.
