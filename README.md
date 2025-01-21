@@ -105,6 +105,43 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 ---
 
 ## 📈 Recommandations
-1. **Étendre la gamme Clothing** pour exploiter son succès.
-2. **Réduire les frais de livraison internationaux** pour booster les ventes hors US.
-3. **Lancer des campagnes ciblées sur les hommes de 24 à 35 ans**, segment clé des acheteurs.
+
+1. **Exploiter les produits performants :**
+   - Étendre la gamme **Clothing** avec de nouvelles collections.
+   - Promouvoir les produits à forte croissance comme **BF1550** et **BF1551**.
+
+2. **Réduire les barrières liées aux frais d’expédition :**
+   - Proposer des **remises sur les frais de livraison internationaux** pour des régions clés.
+   - Mettre en place un **seuil de livraison gratuite**, par exemple pour les commandes supérieures à 100 $.
+
+3. **Améliorer la satisfaction client :**
+   - Renforcer le contrôle qualité pour répondre aux critiques sur la **qualité et la fabrication**.
+   - Réaligner les descriptions et visuels des produits sur les attentes des clients.
+
+4. **Cibler les tranches de prix clés :**
+   - Développer davantage de produits dans la gamme **50-100 $**.
+   - Proposer des bundles ou packs pour augmenter la valeur perçue.
+
+5. **Cibler les hommes de 24-35 ans :**
+   - Mettre en place des campagnes ciblées sur TikTok et Instagram.
+
+6. **Encourager les achats récurrents :**
+   - Lancer un programme de fidélité avec des points ou des remises pour les clients réguliers.
+
+---
+
+## 🛠️ Outils et technologies
+- **Power BI** : Pour la création du tableau de bord interactif.
+- **ZoomCharts** : Pour une expérience utilisateur fluide et interactive.
+
+---
+
+## 📥 Fichiers inclus
+- **Tableau de bord Power BI** : `Merchandise_Sales_Dashboard.pbix`
+- **README.md** : Ce fichier.
+- **Captures d’écran** : Disponibles dans le dossier `images/`.
+
+---
+
+### 🌟 Remerciements
+Merci à **Onyx Data**, **ZoomCharts**, et **DataDNA** pour l’organisation de ce challenge et la fourniture du dataset.
