@@ -69,8 +69,8 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - **Sydney est la ville avec le plus de ventes dans le monde**, représentant **6 % des ventes totales**, malgré des frais de livraison élevés.
 - **Austin a enregistré la plus forte croissance des ventes sur la période**, avec une augmentation de **16 %**, indiquant une adoption croissante des produits dans cette région.
 - En dehors des États-Unis, l’Europe (25 %) et l’Inde (6 %) montrent un intérêt notable pour les produits.
-
-![Performances des ventes](images/Capture%20d’écran%202025-01-21%20-%20Sales%20Performance.png)
+### Performances des ventes
+![Performances des ventes]([images/Capture%20d’écran%202025-01-21%20-%20Sales%20Performance.png)](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Sales%20Performance.png)
 
 ---
 
