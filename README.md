@@ -71,6 +71,8 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - En dehors des États-Unis, l’Europe (25 %) et l’Inde (6 %) montrent un intérêt notable pour les produits.
 ### Performances des ventes
 ![Performances des ventes](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Sales%20Performance.png)
+### Détails des ventes
+![Détails des ventes](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Sales%20Details.png)
 
 ---
 
@@ -80,8 +82,10 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - Les produits **BF1550** et **BF1551** enregistrent les **plus forts taux de croissance** sur la période, avec des augmentations de **12 % et 13 %** respectivement.
 - Les produits dont le prix se situe entre **50 et 100 $** génèrent le **plus grand total de ventes**, soulignant une forte préférence des clients pour cette gamme de prix.
 - Les produits bénéficiant de remises affichent une **note moyenne de 4,47 étoiles**, contre **3,44 étoiles** pour les produits sans remises, suggérant un impact positif des promotions sur la satisfaction client.
-
+### Performance des produits
 ![Performance des produits](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-%20Products%20Performance.png)
+### Détails des produits
+![Détails des produits](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Products%20Details.png)
 
 ---
 
@@ -95,8 +99,8 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
   1. **Qualité et fabrication** : Défauts ou attentes non respectées.
   2. **Livraison et expédition** : Retards ou coûts élevés.
   3. **Attentes vs réalité** : Produits ne correspondant pas toujours aux attentes des clients.
-
-![Satisfaction client et frais d’expédition](images/Capture%20d’écran%202025-01-21%20-%20Customer%20Satisfaction%20%26%20Shipping.png)
+### Satisfaction client et frais d’expédition
+![Satisfaction client et frais d’expédition](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Customer%20Satisfactino%20%26%20Shipping.png)
 
 ---
 
