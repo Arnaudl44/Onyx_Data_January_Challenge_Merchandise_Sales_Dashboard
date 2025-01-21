@@ -144,6 +144,3 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - **[Lien Google Drive](https://drive.google.com/file/d/1QrTMKhaJBJi-F8Rph-ZtWqnUwUZCBn7a/view?usp=sharing)** pour accéder au fichier
 
 ---
-
-### 🌟 Remerciements
-Merci à **Onyx Data**, **ZoomCharts**, et **DataDNA** pour l’organisation de ce challenge et la fourniture du dataset.
