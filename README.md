@@ -23,6 +23,7 @@ Cette analyse explore les performances des ventes de sa ligne de marchandises et
 ## 🛠️ Création du tableau de bord
 Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un dataset propre, ce qui a permis de se concentrer sur l’analyse et la segmentation des données. Voici les étapes suivies :
 
+### Étapes principales
 1. **Inspection des données** :
    - Exploration rapide des colonnes disponibles, avec un focus sur leur pertinence pour l’analyse.
    - Les données étaient propres, ce qui a réduit les efforts nécessaires pour le nettoyage.
@@ -57,22 +58,24 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - Les ventes totales atteignent **856 000 $**, générées par **7 394 commandes** et **12 334 produits vendus**.
 - La **valeur moyenne des commandes (AOV)** est de **116 $**, avec une moyenne de **1,68 produit par commande**.
 - Les ventes augmentent régulièrement au fil du temps, sans montrer de pics significatifs, indiquant une base de clients fidèle et un intérêt constant pour les produits.
+
 ### Vue d’ensemble
 ![Vue d’ensemble](images/Capture%20d’écran%202025-01-21%20-%20Overview.png)
 
 ---
 
-### Performance des ventes
+### Performances des ventes
 - Les **États-Unis** représentent **84 % des ventes totales**, soit **470 000 $**. Cela s’explique par :
   - **Les frais de livraison internationaux**, qui freinent les commandes depuis d’autres régions.
   - **La popularité de Lee Chatmen aux États-Unis**, où il est basé et bénéficie d’une forte notoriété.
 - **Sydney est la ville avec le plus de ventes dans le monde**, représentant **6 % des ventes totales**, malgré des frais de livraison élevés.
 - **Austin a enregistré la plus forte croissance des ventes sur la période**, avec une augmentation de **16 %**, indiquant une adoption croissante des produits dans cette région.
 - En dehors des États-Unis, l’Europe (25 %) et l’Inde (6 %) montrent un intérêt notable pour les produits.
+
 ### Performances des ventes
-![Performances des ventes](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Sales%20Performance.png)
+![Performances des ventes](images/Capture%20d’écran%202025-01-21%20-%20Sales%20Performance.png)
 ### Détails des ventes
-![Détails des ventes](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Sales%20Details.png)
+![Détails des ventes](images/Capture%20d’écran%202025-01-21%20-%20Sales%20Details.png)
 
 ---
 
@@ -81,11 +84,11 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - Le produit **BF1548** est le plus vendu, générant **190 640 $**, soit **30 % des ventes totales**.
 - Les produits **BF1550** et **BF1551** enregistrent les **plus forts taux de croissance** sur la période, avec des augmentations de **12 % et 13 %** respectivement.
 - Les produits dont le prix se situe entre **50 et 100 $** génèrent le **plus grand total de ventes**, soulignant une forte préférence des clients pour cette gamme de prix.
-- Les produits bénéficiant de remises affichent une **note moyenne de 4,47 étoiles**, contre **3,44 étoiles** pour les produits sans remises, suggérant un impact positif des promotions sur la satisfaction client.
-### Performance des produits
-![Performance des produits](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-%20Products%20Performance.png)
+
+### Performances des produits
+![Performance des produits](images/Capture%20d’écran%202025-01-21%20-%20Products%20Performance.png)
 ### Détails des produits
-![Détails des produits](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Products%20Details.png)
+![Détails des produits](images/Capture%20d’écran%202025-01-21%20-%20Products%20Details.png)
 
 ---
 
@@ -99,49 +102,39 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
   1. **Qualité et fabrication** : Défauts ou attentes non respectées.
   2. **Livraison et expédition** : Retards ou coûts élevés.
   3. **Attentes vs réalité** : Produits ne correspondant pas toujours aux attentes des clients.
-### Satisfaction client et frais d’expédition
-![Satisfaction client et frais d’expédition](https://github.com/Arnaudl44/Onyx_Data_January_Challenge_Merchandise_Sales_Dashboard/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-01-21%20-%20Customer%20Satisfactino%20%26%20Shipping.png)
+
+### Satisfaction client
+![Satisfaction client](images/Capture%20d’écran%202025-01-21%20-%20Customer%20Satisfaction%20%26%20Shipping.png)
 
 ---
 
 ## 📈 Recommandations
-
 1. **Exploiter les produits performants :**
    - Étendre la gamme **Clothing** avec de nouvelles collections.
    - Promouvoir les produits à forte croissance comme **BF1550** et **BF1551**.
 
 2. **Réduire les barrières liées aux frais d’expédition :**
-   - Proposer des **remises sur les frais de livraison internationaux** pour des régions clés.
+   - Proposer des **remises sur les frais de livraison internationaux**.
    - Mettre en place un **seuil de livraison gratuite**, par exemple pour les commandes supérieures à 100 $.
 
 3. **Améliorer la satisfaction client :**
-   - Renforcer le contrôle qualité pour répondre aux critiques sur la **qualité et la fabrication**.
-   - Réaligner les descriptions et visuels des produits sur les attentes des clients.
-
-4. **Cibler les tranches de prix clés :**
-   - Développer davantage de produits dans la gamme **50-100 $**.
-   - Proposer des bundles ou packs pour augmenter la valeur perçue.
-
-5. **Cibler les hommes de 24-35 ans :**
-   - Mettre en place des campagnes ciblées sur TikTok et Instagram.
-
-6. **Encourager les achats récurrents :**
-   - Lancer un programme de fidélité avec des points ou des remises pour les clients réguliers.
+   - Renforcer le contrôle qualité.
+   - Réaligner les descriptions et visuels des produits.
 
 ---
 
 ## 🛠️ Outils et technologies
-- **Power BI** : Pour la création du tableau de bord interactif.
-- **ZoomCharts** : Pour une expérience utilisateur fluide et interactive.
+- **Power BI** : Création du tableau de bord interactif.
+- **ZoomCharts** : Interactivité avancée.
 
 ---
 
 ## 📥 Fichiers inclus
-- **Tableau de bord Power BI** : Merchandise_Sales_Dashboard.pbix
-- **README.md** : Ce fichier.
-- **Captures d’écran** : Disponibles dans le dossier images/.
+- **Merchandise_Sales_Dashboard.pbix**
+- **README.md**
+- **Images** (dossier `images/`)
 
 ---
 
 ### 🌟 Remerciements
-Merci à **Onyx Data**, **ZoomCharts**, et **DataDNA** pour l’organisation de ce challenge et la fourniture du dataset. j'ai remis tout le code, fais des corrections de code pour la forme si besoin
+Merci à **Onyx Data**, **ZoomCharts**, et **DataDNA** pour ce challenge et le dataset.
