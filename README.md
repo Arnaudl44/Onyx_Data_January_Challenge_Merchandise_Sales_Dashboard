@@ -58,7 +58,6 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - La **valeur moyenne des commandes (AOV)** est de **116 $**, avec une moyenne de **1,68 produit par commande**.
 - Les ventes augmentent régulièrement au fil du temps, sans montrer de pics significatifs, indiquant une base de clients fidèle et un intérêt constant pour les produits.
 
-### Vue d’ensemble
 ![Vue d’ensemble](images/Capture%20d’écran%202025-01-21%20-%20Overview.png)
 
 ---
@@ -71,24 +70,18 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
 - **Austin a enregistré la plus forte croissance des ventes sur la période**, avec une augmentation de **16 %**, indiquant une adoption croissante des produits dans cette région.
 - En dehors des États-Unis, l’Europe (25 %) et l’Inde (6 %) montrent un intérêt notable pour les produits.
 
-### Performances des ventes
 ![Performances des ventes](images/Capture%20d’écran%202025-01-21%20-%20Sales%20Performance.png)
-### Détails des ventes
-![Détails des ventes](images/Capture%20d’écran%202025-01-21%20-%20Sales%20Details.png)
 
 ---
 
 ### Performances des produits
 - La catégorie **Clothing** domine les ventes, représentant **75 %** du total (637K$), suivie des **Ornaments** (156K$) et des produits divers (63K$).
-- Le produit **BF1548** est le plus vendu, générant **190 640 $**.
+- Le produit **BF1548** est le plus vendu, générant **190 640 $**, soit **30 % des ventes totales**.
 - Les produits **BF1550** et **BF1551** enregistrent les **plus forts taux de croissance** sur la période, avec des augmentations de **12 % et 13 %** respectivement.
 - Les produits dont le prix se situe entre **50 et 100 $** génèrent le **plus grand total de ventes**, soulignant une forte préférence des clients pour cette gamme de prix.
 - Les produits bénéficiant de remises affichent une **note moyenne de 4,47 étoiles**, contre **3,44 étoiles** pour les produits sans remises, suggérant un impact positif des promotions sur la satisfaction client.
 
-### Performance des produits
 ![Performance des produits](images/Capture%20d’écran%202025-01-21%20-%20Products%20Performance.png)
-### Détails des produits
-![Détails des produits](images/Capture%20d’écran%202025-01-21%20-%20Products%20Details.png)
 
 ---
 
@@ -103,64 +96,11 @@ Le tableau de bord a été conçu directement avec **Power BI**, en utilisant un
   2. **Livraison et expédition** : Retards ou coûts élevés.
   3. **Attentes vs réalité** : Produits ne correspondant pas toujours aux attentes des clients.
 
-### Satisfaction client et frais d’expédition
 ![Satisfaction client et frais d’expédition](images/Capture%20d’écran%202025-01-21%20-%20Customer%20Satisfaction%20%26%20Shipping.png)
 
 ---
 
-### Impact des frais de livraison sur l’AOV
-- L’analyse initiale montrait un **AOV élevé pour l’Australie** (**261 $**), mais une part importante de ce montant provient des frais de livraison.
-- En isolant les frais d’expédition, l’**AOV réel des produits** est équivalent pour tous les pays, autour de **90 $**.
-- Les frais de livraison représentent une part significative du total dans de nombreux pays, freinant les achats récurrents.
-
----
-
-### Analyse démographique
-- Près de **50 % des acheteurs** sont des hommes âgés de **24 à 35 ans**, constituant le segment démographique le plus important.
-- Les ventes sont concentrées entre **24 et 35 ans**, toutes catégories confondues.
-
----
-
 ## 📈 Recommandations
-
-1. **Exploiter les produits performants :**
-   - Étendre la gamme **Clothing** avec de nouvelles collections.
-   - Promouvoir les produits à forte croissance comme **BF1550** et **BF1551**.
-
-2. **Réduire les barrières liées aux frais d’expédition :**
-   - Proposer des **remises sur les frais de livraison internationaux** pour des régions clés.
-   - Mettre en place un **seuil de livraison gratuite**, par exemple pour les commandes supérieures à 100 $.
-
-3. **Améliorer la satisfaction client :**
-   - Renforcer le contrôle qualité pour répondre aux critiques sur la **qualité et la fabrication**.
-   - Réaligner les descriptions et visuels des produits sur les attentes des clients.
-
-4. **Cibler les tranches de prix clés :**
-   - Développer davantage de produits dans la gamme **50-100 $**.
-   - Proposer des bundles ou packs pour augmenter la valeur perçue.
-
-5. **Cibler les hommes de 24-35 ans :**
-   - Mettre en place des campagnes ciblées sur TikTok et Instagram.
-
-6. **Encourager les achats récurrents :**
-   - Lancer un programme de fidélité avec des points ou des remises pour les clients réguliers.
-
----
-
-## 🛠️ Outils et technologies
-- **Power BI** : Pour la création du tableau de bord interactif.
-- **ZoomCharts** : Pour une expérience utilisateur fluide et interactive.
-
----
-
-## 📥 Fichiers inclus
-- **Tableau de bord Power BI** : `Merchandise_Sales_Dashboard.pbix`
-- **README.md** : Ce fichier.
-- **Captures d’écran** : Disponibles dans le dossier `screenshots/`.
-
----
-
-### 🌟 Remerciements
-Merci à **Onyx Data**, **ZoomCharts**, et **DataDNA** pour l’organisation de ce challenge et la fourniture du dataset.
-
----
+1. **Étendre la gamme Clothing** pour exploiter son succès.
+2. **Réduire les frais de livraison internationaux** pour booster les ventes hors US.
+3. **Lancer des campagnes ciblées sur les hommes de 24 à 35 ans**, segment clé des acheteurs.
